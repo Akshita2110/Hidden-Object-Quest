@@ -1,1 +1,2 @@
-# Hidden-Object-Quest
+# Decode_Mysteries
+Hidden object game
